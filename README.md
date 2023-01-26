@@ -1,0 +1,1 @@
+The _printf() function produces output according to a format. This function write its output to the the standard output stream, stdout. It returns the count of printed characters when the function is successful and 1 when the function fails.
